@@ -1,5 +1,15 @@
 # FindMyFlag
 
+This site is hosted at https://wbokhari.github.io/findMyFlag/ using github pages
+
+## For deployment
+
+We can use github pages using https://angular.io/guide/deployment or 
+
+use surge using https://angular.io/guide/deployment
+
+The surge site is hosted at http://second-lawyer.surge.sh/
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.2.2.
 
 ## Development server
