@@ -3,7 +3,7 @@
     <div class="grid-item">
       <form class="search-container">
         <h1>Know the Globe</h1>
-        <input #searchText type="text" id="search-bar" (keyup.enter)="searchCountry(searchText.value)"
+        <input class="search-bar"#searchText type="text" id="search-bar" (keyup.enter)="searchCountry(searchText.value)"
           placeholder="Enter Country Name?">
         <a (click)="searchCountry(searchText.value)"><img class="search-icon"
           src="http://www.endlessicons.com/wp-content/uploads/2012/12/search-icon.png"></a>
